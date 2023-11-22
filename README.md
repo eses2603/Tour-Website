@@ -10,4 +10,4 @@ I've designed and coded a responsive tour website, and it's ready to explore!
 
 <h2>Screen_Shoot</h2>
 
-![](Screen_Course-Website.gif)
+![](Screen_Tour-Website.gif)
